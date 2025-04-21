@@ -8,7 +8,7 @@
 - Анализаторы кода
 
 ## Связь
-- Telegram: [t.me/@burbon_salvatore]
+- Telegram: [t.me/burbon_salvatore]
 - Email: [grexe4422@gmail.com]
 - Github: [https://github.com/therealekybzeppeli]
 
