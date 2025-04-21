@@ -1,16 +1,17 @@
-## Hi there 👋
+# Shelby Code
+С++ кодер. Пишу кода, помогаю новичкам.
 
-<!--
-**therealekybzeppeli/therealekybzeppeli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Что я делаю?
+- На данный момент пополняем портфолио, так что:
+- Telegram-боты
+- Парсеры данных
+- Анализаторы кода
 
-Here are some ideas to get you started:
+## Связь
+- Telegram: @burbon_salvatore
+- Email: [grexe4422@gmail.com]
+- Github: [https://github.com/therealekybzeppeli]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Проекты
+В будущем проекты будут пополняться.
+- [Code Analyzer] (https://github.com/therealekybzeppeli/code-analyzer): 300 строк С++, ищет всякие косяки в твоем коде.
